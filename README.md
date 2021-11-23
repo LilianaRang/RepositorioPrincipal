@@ -6,6 +6,6 @@ Repositorio prueba
 
 Ejercicios de git
 
-![](https://github.com/LilianaRang/RepositorioPrincipal/issues/1#issue-1060716401)
-![](https://github.com/LilianaRang/RepositorioPrincipal/issues/2#issue-1060716787)
-![](https://github.com/LilianaRang/RepositorioPrincipal/issues/3#issue-1060717237)
+![Imagen1](https://user-images.githubusercontent.com/92281318/142954207-16ca878f-37b9-4524-9da8-2444f16b274e.png)
+![Imagen2](https://user-images.githubusercontent.com/92281318/142954295-749ba7e4-7a21-487a-bb07-fe3c9e3b72fa.png)
+![Imagen2](https://user-images.githubusercontent.com/92281318/142954295-749ba7e4-7a21-487a-bb07-fe3c9e3b72fa.png)
